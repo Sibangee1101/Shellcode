@@ -6,6 +6,7 @@ echo "Value after post increament of x by executing x++ is $[x++]"
 echo "Value after pre increament of x by executing ++x is $[++x]"
 echo "Value after post decreament of x by executing x-- is $[x--]"
 echo "Value after pre decreament of x by executing --x is $[--x]"
+#skb is useless
 #End of script
 
 
